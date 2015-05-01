@@ -19,5 +19,7 @@
   "registry": "jspm",
   "dependencies": {
     "jquery": "^2.1.4"
-  }
+  },
+  "main": "scripts/index.js"
+
 }
