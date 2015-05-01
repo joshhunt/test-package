@@ -16,10 +16,9 @@
     "url": "https://github.com/kartiklad/test-package/issues"
   },
   "homepage": "https://github.com/kartiklad/test-package",
-  "registry": "jspm",
-  "dependencies": {
-    "jquery": "*"
-  },
-  "main": "scripts/index.js"
+  "jspm": {
+    "main": "scripts/index.js"  
+  }
+  
 
 }
