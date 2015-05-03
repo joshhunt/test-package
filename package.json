@@ -23,8 +23,7 @@
     },
     "directories":{
       "lib": "src"
-    },
-    "files": ["templates"]
+    }
   }
   
 
