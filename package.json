@@ -2,7 +2,6 @@
   "name": "test-package",
   "version": "1.0.0",
   "description": "test mi9 package for jspm",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
