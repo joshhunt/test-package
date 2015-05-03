@@ -23,7 +23,8 @@
     },
     "directories":{
       "lib": "scripts"
-    }
+    },
+    "files": ["templates"]
   }
   
 
