@@ -15,8 +15,8 @@
     "url": "https://github.com/kartiklad/test-package/issues"
   },
   "homepage": "https://github.com/kartiklad/test-package",
+  "main": "scripts/index.js",
   "jspm": {
-    "main": "index.js",
     "dependencies":{
       "jquery": "bower:jquery"
     },
