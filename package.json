@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/kartiklad/test-package",
   "jspm": {
-    "main": "index.js",
+    "main": "scripts/index.js",
     "dependencies":{
       "jquery": "bower:jquery"
     },
     "directories":{
-      "lib": "scripts"
+      "lib": "src"
     },
     "files": ["templates"]
   }
