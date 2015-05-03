@@ -18,10 +18,6 @@
   "jspm": {
     "dependencies":{
       "jquery": "bower:jquery"
-    },
-    "directories":{
-      "lib": "scripts/",
-      "templates": "templates/"
     }
   }
   
