@@ -15,16 +15,16 @@
     "url": "https://github.com/kartiklad/test-package/issues"
   },
   "homepage": "https://github.com/kartiklad/test-package",
-  "main": "scripts/index.js",
+  "main": "index.js",
   "jspm": {
     "dependencies":{
       "jquery": "bower:jquery"
     },
     "directories":{
-      "lib":"scripts/"
+      "lib": "scripts"
     },
     "files":[
-      "templates/"
+      "templates"
     ]
   }
   
