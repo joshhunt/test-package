@@ -1,2 +1,2 @@
 # test-package
-test mi9 package for jspm
+Test Mi9 package for jspm
